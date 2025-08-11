@@ -1,1 +1,1 @@
-Create A full Api by Django and attach a predict modect for predice water used from real DateTime
+Create A full Api webApplication by Django and attach a Model learning for predice water used from Real DateTime
