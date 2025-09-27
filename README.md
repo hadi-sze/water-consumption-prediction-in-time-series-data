@@ -16,10 +16,6 @@ Decision Tree Regression
 
 Random Forest Regression
 
-Support Vector Regression (SVR)
-
-Gradient Boosting methods (XGBoost, LightGBM, etc.)
-
 Model evaluation with metrics such as R² Score, MAE, MSE, RMSE.
 
 Visualization of model performance and error distribution.
@@ -27,6 +23,7 @@ Visualization of model performance and error distribution.
 Comparative analysis to identify the best-performing regression model.
 
   
+
 📂 Repository Structure
 ├── data/              # Raw and processed datasets
 ├── notebooks/         # Jupyter notebooks for experiments
