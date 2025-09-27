@@ -36,8 +36,8 @@ Comparative analysis to identify the best-performing regression model.
 
 Clone the repository and install dependencies:
 ```
-git clone https://github.com/hadi-sze/Water-Used-prediction-from-time_series.git
-cd Water-Used-prediction-from-time-series
+git clone https://github.com/hadi-sze/water-consumption-prediction-in-time-series-data.git
+cd water-consumption-prediction-in-time-series-data
 pip install -r requirements.txt
 ```
 
