@@ -34,7 +34,8 @@ Comparative analysis to identify the best-performing regression model.
 ├── scripts/           # Python scripts for preprocessing and training
 ├── results/           # Evaluation metrics and plots
 └── README.md          # Project overview
-bash 
+
+ 
 🚀 Getting Started
 
 Clone the repository and install dependencies:
