@@ -28,7 +28,6 @@ Comparative analysis to identify the best-performing regression model.
 ├── notebooks/         # Jupyter notebooks for experiments
 ├── models/            # Saved trained models
 ├── scripts/           # Python scripts for preprocessing and training
-├── results/           # Evaluation metrics and plots
 └── README.md          # Project overview
 ```
  
